@@ -1,0 +1,39 @@
+{"courses": [
+   {
+    "course_image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+    "course_name": "Software quality Assurance",
+    "course_description": "Software quality assurance (SQA) is a means and practice of monitoring all software engineering processes, methods, and work products to ensure compliance ..!",
+    "course_code": "CSCI-6629-01",
+    "instructor": "Milton-clark",
+    "prerequisites": "N/A",
+    "credits": "3",
+    "days": "MW",
+    "time": "9.30 TO 12.30",
+    "location": "Kaplan Hall"
+   },
+   {
+    "course_image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+    "course_name": "IOT Security",
+    "course_description": "he collective network of connected devices and the technology that facilitates communication between devices and the cloud, as well as between the devices themselves.",
+    "course_code": "CSCI-6670-01",
+    "instructor": "Shivanjali kare",
+    "prerequisites": "N/A",
+    "credits": "3",
+    "days": "M",
+    "time": "2.00 to 4.30",
+    "location": "buckman hall"
+   },
+   {
+    "course_image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+    "course_name": "Artificial inteligence",
+    "course_description": "Artificial intelligence (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks!",
+    "course_code": "CSCI-6606-02",
+    "instructor": "Saida Elmi",
+    "prerequisites": "N/A",
+    "credits": "3",
+    "days": "FS",
+    "time": "2:0 TO 4.30",
+    "location": ""
+   }
+ ]
+}
