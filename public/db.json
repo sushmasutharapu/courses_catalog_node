@@ -34,6 +34,30 @@
     "days": "FS",
     "time": "2:0 TO 4.30",
     "location": ""
+   },
+   {
+    "course_image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+    "course_name": "Introduction to Computer Security",
+    "course_description": "Artificial intelligence (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks!",
+    "course_code": "CSCI-6608-02",
+    "instructor": "Luis Rivera",
+    "prerequisites": "N/A",
+    "credits": "3",
+    "days": "MW",
+    "time": "5:0 TO 6.30",
+    "location": "Kaplan Hall"
+   },
+   {
+    "course_image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+    "course_name": "Distributed database systems",
+    "course_description": "Artificial intelligence (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks!",
+    "course_code": "CSCI-6611-02",
+    "instructor": "Adowa",
+    "prerequisites": "CSCO-6600",
+    "credits": "3",
+    "days": "MW",
+    "time": "5:0 TO 6.30",
+    "location": "Kaplan Hall"
    }
  ]
 }
